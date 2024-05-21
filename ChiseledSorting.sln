@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChiseledSorting", "ChiseledSorting\ChiseledSorting.csproj", "{0947F5E0-DE3B-4159-92F0-6141403CE5F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChiseledSortingNonAot", "ChiseledSortingNonAot\ChiseledSortingNonAot.csproj", "{705CDA9E-23C9-45EC-A38C-CCF48CE8FB2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0947F5E0-DE3B-4159-92F0-6141403CE5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0947F5E0-DE3B-4159-92F0-6141403CE5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0947F5E0-DE3B-4159-92F0-6141403CE5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0947F5E0-DE3B-4159-92F0-6141403CE5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705CDA9E-23C9-45EC-A38C-CCF48CE8FB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705CDA9E-23C9-45EC-A38C-CCF48CE8FB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705CDA9E-23C9-45EC-A38C-CCF48CE8FB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705CDA9E-23C9-45EC-A38C-CCF48CE8FB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E642A134-31A3-4F51-91FA-589FCC84E286}
+	EndGlobalSection
+EndGlobal
