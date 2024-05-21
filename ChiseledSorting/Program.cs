@@ -1,7 +1,7 @@
 ﻿using ChiseledSorting;
 
 var myObjects = new List<MyObject>();
-for (int i = 1; i <= 50000000; i++)
+for (int i = 1; i <= 5000000; i++)
 {
     myObjects.Add(new MyObject
     {
